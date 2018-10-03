@@ -11,7 +11,7 @@ script:
 deploy:
   provider: elasticbeanstalk
   region: 'us-east-2'
-  app: ' Test-Project'
+  app: 'Test-Project'
   env: 'TestProject-env'
   bucket_name: 'elasticbeanstalk-us-east-2-111359424643'
   bucket_path: 'Test-Project'
