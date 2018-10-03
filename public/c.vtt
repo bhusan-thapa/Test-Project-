@@ -1,0 +1,174 @@
+{
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 5.61,
+      "speaker": "",
+      "wdlist": [
+        {"start": 0.16, "end": 0.19, "word": "If "},
+        {"start": 0.19, "end": 0.32, "word": "you "},
+        {"start": 0.32, "end": 0.46, "word": "do "},
+        {"start": 0.46, "end": 0.72, "word": "user "},
+        {"start": 0.73, "end": 1.19, "word": "research, "},
+        {"start": 1.23, "word": "it's ", "end": 3.9699999999999998},
+        {"start": 3.9699999999999998, "end": 4.0, "word": "one "},
+        {"start": 4.22, "end": 4.31, "word": "of "},
+        {"start": 4.31, "end": 4.329999999999999, "word": "the "},
+        {"start": 4.33, "end": 4.54, "word": "best "},
+        {"start": 4.54, "end": 4.73, "word": "tools "},
+        {"start": 4.73, "end": 4.800000000000001, "word": "that "},
+        {"start": 4.8, "end": 4.83, "word": "I "},
+        {"start": 4.83, "end": 4.93, "word": "have "},
+        {"start": 4.93, "end": 5.1499999999999995, "word": "used "},
+        {"start": 5.15, "end": 5.37, "word": "right "},
+        {"start": 5.37, "end": 5.6000000000000005, "word": "now. "}
+      ]
+    },
+    {
+      "start": 5.87,
+      "end": 11.4,
+      "wdlist": [
+        {"start": 5.87, "end": 6.0600000000000005, "word": "In "},
+        {"start": 6.06, "end": 6.359999999999999, "word": "terms "},
+        {"start": 6.36, "end": 6.590000000000001, "word": "of "},
+        {"start": 9.2, "end": 9.5, "word": "giving "},
+        {"start": 9.5, "end": 9.62, "word": "you "},
+        {"start": 9.62, "end": 9.92, "word": "something "},
+        {"start": 9.93, "end": 9.96, "word": "to "},
+        {"start": 9.97, "end": 10.12, "word": "show "},
+        {"start": 10.32, "end": 10.450000000000001, "word": "for "},
+        {"start": 10.45, "end": 10.559999999999999, "word": "the "},
+        {"start": 10.559999, "end": 10.839998999999999, "word": "research "},
+        {"start": 10.84, "end": 11.05, "word": "you've "},
+        {"start": 11.05, "end": 11.4, "word": "done. "}
+      ]
+    },
+    {
+      "start": 12.4,
+      "end": 20.47,
+      "speaker": "",
+      "wdlist": [
+        {"start": 12.4, "end": 12.69, "word": "Whereas "},
+        {"start": 12.7, "end": 12.959999999999999, "word": "before "},
+        {"start": 12.96, "end": 13.040000000000001, "word": "it "},
+        {"start": 13.059999, "end": 13.469999, "word": "takes "},
+        {"start": 13.79, "end": 13.969999999999999, "word": "a "},
+        {"start": 14.07, "end": 14.43, "word": "ton "},
+        {"start": 14.429999, "end": 14.599999, "word": "of "},
+        {"start": 14.62, "end": 15.219999999999999, "word": "work "},
+        {"start": 15.4, "end": 16.26, "word": "to "},
+        {"start": 16.549999, "end": 16.909999, "word": "take "},
+        {"start": 16.940001, "end": 17.930000999999997, "word": "everything, "},
+        {"start": 18.0, "end": 18.29, "word": "to "},
+        {"start": 18.299999, "end": 18.929999, "word": "distill "},
+        {"start": 18.93, "end": 19.23, "word": "what "},
+        {"start": 19.469999, "end": 19.549999, "word": "has "},
+        {"nextWordStart": 20.13, "word": "been ", "lastWordEnd": 19.549999},
+        {"nextWordStart": 20.13, "word": "told ", "lastWordEnd": 19.549999},
+        {"nextWordStart": 20.13, "word": "to ", "lastWordEnd": 19.549999},
+        {"start": 20.13, "end": 20.47, "word": "you. "}
+      ]
+    },
+    {
+      "start": 20.5,
+      "end": 25.18,
+      "speaker": "",
+      "wdlist": [
+        {"start": 20.5, "end": 20.59, "word": "You "},
+        {"start": 20.59, "end": 20.7, "word": "know, "},
+        {"start": 20.7, "end": 20.89, "word": "you "},
+        {"start": 20.89, "end": 21.05, "word": "might "},
+        {"start": 21.05, "end": 21.34, "word": "use "},
+        {"start": 21.34, "end": 21.54, "word": "little "},
+        {"start": 21.54, "end": 21.86, "word": "quotes "},
+        {"start": 21.86, "end": 21.99, "word": "and "},
+        {
+          "start": 21.990000000000002,
+          "end": 22.250000000000004,
+          "word": "things, "
+        },
+        {"start": 22.25, "end": 22.37, "word": "but "},
+        {"start": 22.37, "end": 22.42, "word": "it "},
+        {"start": 22.42, "end": 22.740000000000002, "word": "takes "},
+        {"start": 22.78, "end": 22.790000000000003, "word": "a "},
+        {"start": 22.8, "end": 23.03, "word": "ton "},
+        {"start": 23.03, "end": 23.16, "word": "of "},
+        {"start": 23.16, "end": 23.73, "word": "time "},
+        {"start": 23.81, "end": 23.93, "word": "to "},
+        {"start": 23.93, "end": 24.4, "word": "actually "},
+        {"start": 24.4, "end": 24.889999999999997, "word": "communicate "},
+        {"start": 24.89, "end": 25.18, "word": "that. "}
+      ]
+    },
+    {
+      "start": 25.63,
+      "end": 35.580000000005,
+      "wdlist": [
+        {"start": 25.63, "end": 25.869999999999997, "word": "And "},
+        {"start": 25.87, "end": 26.5, "word": "now, "},
+        {"start": 27.939999999999998, "end": 28.089999999999996, "word": "I "},
+        {"start": 28.09, "end": 28.27, "word": "can "},
+        {"start": 28.27, "end": 28.98, "word": "communicate "},
+        {"start": 30.969999, "end": 31.119999, "word": "the "},
+        {
+          "start": 31.119999999999997,
+          "end": 31.519999999999996,
+          "word": "research "
+        },
+        {"start": 31.52, "end": 31.669999999999998, "word": "that "},
+        {"start": 31.67, "end": 31.8, "word": "we've "},
+        {"start": 31.809998999999998, "end": 32.329999, "word": "done "},
+        {"start": 32.53, "end": 33.1, "word": "through "},
+        {"start": 33.139999, "end": 33.219999, "word": "a "},
+        {"start": 33.219999, "end": 33.769999, "word": "handful "},
+        {"start": 33.78, "end": 33.800000000000004, "word": "of "},
+        {"start": 33.799999, "end": 34.249999, "word": "quotes "},
+        {
+          "start": 34.260000000000005,
+          "end": 34.540000000000006,
+          "word": "from "
+        },
+        {"start": 34.539999, "end": 34.979999, "word": "users "},
+        {
+          "start": 34.980000000000004,
+          "end": 35.580000000000005,
+          "word": "themselves. "
+        }
+      ]
+    },
+    {
+      "start": 36.129999,
+      "end": 41.16,
+      "speaker": "",
+      "wdlist": [
+        {"start": 36.129999, "end": 36.279999, "word": "And "},
+        {
+          "start": 36.279999000000004,
+          "end": 36.449999000000005,
+          "word": "that "
+        },
+        {"start": 36.45, "end": 36.67, "word": "is "},
+        {"start": 36.74, "end": 36.980000000000004, "word": "so "},
+        {
+          "start": 36.980000000000004,
+          "end": 37.150000000000006,
+          "word": "much "
+        },
+        {"start": 37.16, "end": 37.47, "word": "stronger "},
+        {"start": 37.47, "end": 37.629999999999995, "word": "than "},
+        {"start": 37.63, "end": 38.07, "word": "anything "},
+        {"start": 38.08, "end": 38.17, "word": "I "},
+        {"start": 38.17, "end": 38.35, "word": "can "},
+        {"start": 38.35, "end": 38.74, "word": "tell, "},
+        {"start": 38.74, "end": 38.82, "word": "or "},
+        {"start": 38.82, "end": 39.13, "word": "anything "},
+        {"start": 39.13, "end": 39.2, "word": "I "},
+        {"start": 39.2, "end": 39.330000000000005, "word": "can "},
+        {"start": 39.33, "end": 39.55, "word": "put "},
+        {"start": 39.56, "end": 39.900000000000006, "word": "into "},
+        {"start": 39.9, "end": 40.28, "word": "a "},
+        {"start": 40.69, "end": 41.16, "word": "PowerPoint."}
+      ]
+    }
+  ]
+}
